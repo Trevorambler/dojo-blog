@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-  <h1>home</h1>
+  <h1>Lesson 11 Strat "you actually pushed code to git hub"</h1>
 
    
   </div>
