@@ -1,0 +1,25 @@
+{
+    "posts": [
+       {
+        "id": 1,
+        "title": "Welcome to the new blog",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium recusandae quo molestiae deleniti tenetur exercitationem impedit illum excepturi quod modi dolores labore itaque reiciendis explicabo, aliquam commodi? Maxime, optio ratione!",
+        "tags": [
+            "webdev",
+            "coding",
+            "news"
+        ]
+       },
+       {
+        "id": 2,
+        "title": "Top 5 css tips",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium recusandae quo molestiae deleniti tenetur exercitationem impedit illum excepturi quod modi dolores labore itaque reiciendis explicabo, aliquam commodi? Maxime, optio ratione!",
+        "tags": [
+            "css",
+            "webdev",
+            "coding"
+        ]
+       }
+    ]
+}
+
